@@ -1,5 +1,6 @@
 import os
 
-api_id = "24798261"
-api_hash = "fef280037f5759eccc540c6d7a279a14"
-bot_token = "8675862526:AAF5oR2wr0nmyC5nsWJgzLXvFPZ3koCg8cc"
+api_id = "34995262"
+api_hash = "c06f2fb6447a11d52a7b42a51759b855"
+bot_token = "8763035168:AAEtQVE6YljZ2XFszTUpdm1_EX4V1dT0QNg"
+
